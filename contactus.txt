@@ -1,0 +1,18 @@
+<HTML>
+<HEAD></HEAD>
+<TITLE>MY SCHOOL </TITLE>
+<BODY BGCOLOR=silver><IMG SRC="banner_new.png"/></BODY></HTML>
+<HTML>
+<BODY><TABLE border="5px" bgcolor=white STYLE="POSITION:ABSOLUTE;TOP:20%" WIDTH=100%>
+<TR>
+<TD><font color="DARK yellow"><center><A HREF="my first html.html">HOME</A></center></font></TD>
+<TD><font color="DARK yellow"><center>ABOUT US</center></font></TD>
+<td><font color="DARK yellow"><center>ADMISSION</center></font></TD>
+<TD><font color="DARK yellow"><center>FACILITIES</center></font></TD>
+<TD><font color="DARK yellow"><center>ACADEMICS</center></font></TD>
+<TD><font color="DARK yellow"><center>SCHOOL UPDATES</center></font></TD>
+<TD><font color="DARK yellow"><center>STUDENT & PARENT PORTAL</center></font></TD>
+<TD><font color="DARK yellow"><center>ONLINE REGISTRATION</center></font></TD>
+
+</TR></TABLE>
+</BODY></HTML>
